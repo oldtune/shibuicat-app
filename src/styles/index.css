@@ -1,0 +1,10 @@
+.cat-image-wrapper {
+  max-height: 200px;
+  height: auto;
+}
+
+.cat-image {
+  object-fit: cover;
+  max-height: 100%;
+  height: auto;
+}
