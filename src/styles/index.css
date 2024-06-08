@@ -7,8 +7,10 @@
   object-fit: cover;
   height: auto;
   filter: grayscale(20%);
+  opacity: 0.9;
 }
 
 .cat-image:hover {
   filter: grayscale(0);
+  opacity: 1;
 }
